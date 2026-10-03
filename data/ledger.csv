@@ -1,0 +1,2 @@
+vendor,invoice_number,invoice_date,amount,due_date,source_file
+ABC Company,ABC-002,2026-10-01,25000.0,2026-10-15,invoice_abc_002.txt

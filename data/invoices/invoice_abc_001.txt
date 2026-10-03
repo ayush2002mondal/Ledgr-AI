@@ -1,0 +1,5 @@
+Vendor: ABC Company
+Invoice Number: ABC-001
+Invoice Date: 2026-09-20
+Amount: 15000
+Due Date: 2026-10-10

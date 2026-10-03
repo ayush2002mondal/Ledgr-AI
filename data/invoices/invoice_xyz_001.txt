@@ -1,0 +1,5 @@
+Vendor: XYZ Solutions
+Invoice Number: XYZ-001
+Invoice Date: 2026-09-25
+Amount: 18000
+Due Date: 2026-10-12

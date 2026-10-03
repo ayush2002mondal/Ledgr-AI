@@ -1,0 +1,4 @@
+.env
+.aitask/
+__pycache__/
+*.pyc
