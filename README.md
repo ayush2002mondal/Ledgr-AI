@@ -8,6 +8,10 @@ Watch Ledgr in action:
 
 [▶ Watch Demo Video](https://www.youtube.com/watch?v=GyyrYFa-SAo)
 
+Link to Ledgr:
+
+[Click here](https://ledgr-ai.streamlit.app/)
+
 ## ✨ What it does
 
 * Understands natural-language requests using Groq
