@@ -6,7 +6,7 @@
 
 Watch Ledgr in action:
 
-[▶ Watch Demo Video](YOUR_VIDEO_LINK)
+[▶ Watch Demo Video](https://www.youtube.com/watch?v=GyyrYFa-SAo)
 
 ## ✨ What it does
 
